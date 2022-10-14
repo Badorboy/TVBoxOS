@@ -260,9 +260,9 @@
                         android:textColor="@color/color_CCFFFFFF"
                         android:textSize="@dimen/ts_40" />
 
-                </LinearLayout>
+  <--              </LinearLayout>-->
 
-            </LinearLayout>
+    <--        </LinearLayout>-->
 
 <!--            <com.owen.tvrecyclerview.widget.TvRecyclerView-->
  <!--               android:id="@+id/tvHotList"-->
