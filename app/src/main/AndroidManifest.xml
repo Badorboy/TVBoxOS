@@ -39,18 +39,13 @@
 
         <activity
             android:name=".ui.activity.LivePlayActivity"
-             android:screenOrientation="sensorLandscape"     
             android:screenOrientation="sensorLandscape" />
         <activity
             android:name=".ui.activity.DetailActivity"
-            android:screenOrientation="sensorLandscape"
-      
             android:configChanges="orientation|screenSize"
             android:screenOrientation="sensorLandscape" />
         <activity
             android:name=".ui.activity.PlayActivity"
-             android:screenOrientation="sensorLandscape"
-     
             android:configChanges="orientation|screenSize"
             android:screenOrientation="sensorLandscape" />
         <activity
